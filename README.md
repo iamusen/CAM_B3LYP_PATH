@@ -1,1 +1,2 @@
 # CAM_B3LYP_PATCH
+A CAM-B3LYP patch for VASP 5.4.4 
